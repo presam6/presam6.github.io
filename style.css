@@ -11,7 +11,7 @@ html{
     display: flex;
     justify-content: center;  
     align-items: center;
-    background-color: rgba(223, 60, 155, 0.5); 
+    background-color: rgba(223, 60, 155); 
     position: sticky;
     top: 0;
 }
