@@ -53,8 +53,10 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url("htmlphoto.jpg") no-repeat center center/cover;
-    /* background-image: image(htmlphoto); */
+    background: url("htmlphoto.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
