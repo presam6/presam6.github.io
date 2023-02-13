@@ -77,14 +77,6 @@ html{
     text-align: center;
     margin: 40px 0px;
 }
-
-.btn:hover{
-    cursor: pointer;
-    background-color: white;
-    color: black;
-    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
-    font-weight: bold;
-}
 /* about me section */
 #about{
     display: flex;
