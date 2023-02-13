@@ -11,8 +11,8 @@ html{
     display: flex;
     justify-content: center;  
     align-items: center;
-    background-color: rgba(223, 60, 155); 
-    position: sticky;
+    background-color: white; 
+    position: sticky;   
     top: 0;
 }
 .navbar ul{
