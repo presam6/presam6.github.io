@@ -46,7 +46,7 @@ html{
     justify-content: center;
     align-items: center;
     color: white;
-
+    animation: normal ease 0.3ms;
 }
 #home::before{
     content: "";
